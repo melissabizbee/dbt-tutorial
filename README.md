@@ -1,1 +1,1 @@
-# dbt-tutorial test
+# dbt-tutorial
